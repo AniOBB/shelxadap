@@ -1,7 +1,3 @@
-#UUID
-export id='**此处填写UUID**'
-export PORT=8080
-
 echo '{
     "log": {
         "loglevel": "warning"
